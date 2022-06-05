@@ -25,7 +25,7 @@ mkdir ~/Audio
 
 # Running the scripts
 ```
-touch <name of epub>
+touch ~/Downloads/<name of epub>
 ./convertEpubToText.sh
 ```
 
