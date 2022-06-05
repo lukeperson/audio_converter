@@ -22,3 +22,16 @@ mkdir ~/images
 # Where the script stores the audio files
 mkdir ~/Audio
 ```
+
+# Running the scripts
+```
+touch <name of epub>
+./convertEpubToText.sh
+```
+
+The first param will be the reading rate in words per minute
+```
+./batch_convert_txt_to_audio.sh 400
+```
+
+
